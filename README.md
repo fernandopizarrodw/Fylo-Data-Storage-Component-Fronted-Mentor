@@ -8,7 +8,7 @@ This is my solution to the **Fylo data storage component** challenge on [Fronten
 
 ## Links
 
-- Live Site URL: [https://fernandopizarrodw.github.io/fylo-data-storage-component](https://fernandopizarrodw.github.io/fylo-data-storage-component)
+- Live Site URL: [https://fernandopizarrodw.github.io/fylo-data-storage-component](https://fernandopizarrodw.github.io/Fylo-Data-Storage-Component-Fronted-Mentor/)
 - Solution on Frontend Mentor: [https://www.frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/) <!-- (completamos esto luego) -->
 
 ## Built with
