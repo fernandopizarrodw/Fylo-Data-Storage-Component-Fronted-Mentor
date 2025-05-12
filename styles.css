@@ -160,7 +160,7 @@ body {
   border: 0;
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 992px) {
     body {
         background-image: url(images/bg-desktop.png);
         background-size: contain;
