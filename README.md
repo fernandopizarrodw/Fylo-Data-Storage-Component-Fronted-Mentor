@@ -4,7 +4,7 @@ This is my solution to the **Fylo data storage component** challenge on [Fronten
 
 ## Screenshot
 
-![Screenshot of the project](./images/Screenshot-Desktop.jpg)
+![Screenshot of the project](Screenshot-Desktop.jpg)
 
 ## Links
 
